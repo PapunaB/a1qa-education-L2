@@ -1,0 +1,9 @@
+{
+  "name": "User Inyerface",
+  "url": "https://userinyerface.com/",
+  "email_address": "nameSurname",
+  "domain": "gmail",
+  "domain_end": ".com",
+  "photo": "src\\main\\resources\\image.jpg",
+  "timer_format": "00:00"
+}
